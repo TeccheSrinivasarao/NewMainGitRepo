@@ -10,4 +10,4 @@ spring:
     show-sql: true
     
 mobilestore:
-  vendor-name: AMAZON1234
+  vendor-name: AMAZON
